@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Teresa 👋
 
 <!--
 **teresa-le/teresa-le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+When I'm not working on side projects (see below), I enjoy learning French, photographing nature & architecture, and going to museums & galleries.
+
+
