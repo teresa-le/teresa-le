@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm currently learning more about data engineering and completing the Google Cloud Data Engineering Learning Path. 
+
 When I'm not working on side projects (see below), I enjoy learning French, photographing nature & architecture, and going to museums & galleries.
 
 
