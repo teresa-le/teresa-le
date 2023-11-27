@@ -20,8 +20,8 @@ Welcome to my Github portfolio. I'm a data analyst with a particular interest in
 ## Skills
 <ul>
   <li>Programming Languages: SQL, Python (Pandas, Matplotlib, Numpy, Scikit-learn), VBA</li>
-  <li>Technologies: Excel, PowerBI, Microsoft SQL Server, Tableau, GitHub, Git, Confluence, JIRA, Visio, HTML/CSS</li>
-  <li>Additional skills: Statistical Analysis, Data Modeling, Business Analysis </li>
+  <li>Technologies: Excel, Tableau, PowerBI, Microsoft SQL Server, GitHub, Git, Confluence, JIRA, Visio/li>
+  <li>Additional skills: Statistical Analysis, Data Modeling, Business Analysis, HTML/CSS </li>
 
 
 
