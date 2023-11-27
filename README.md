@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning more about data engineering and completing the Google Cloud Data Engineering Learning Path. 
+Welcome to my Github portfolio. 
 
-When I'm not working on side projects (see below), I enjoy learning French, photographing nature & architecture, and going to museums & galleries.
+## Skills
+Programming Languages: SQL, Python (Pandas, Matplotlib, Numpy, Scikit-learn), VBA
+Technologies: Excel, PowerBI, Microsoft SQL Server, Tableau, GitHub, Git, Confluence, JIRA, Visio, HTML/CSS  
+Additional skills: Statistical Analysis, Data Modeling, Business Analysis 
+
+When I'm not working on side projects (see below), I enjoy learning French, photographing nature & architecture and trying to find the best tasting ice cream/gelato.
 
 
