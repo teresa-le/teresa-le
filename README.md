@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 Welcome to my Github portfolio. I'm a data analyst with a particular interest in machine learning and data visualization, and I have a background in business and information technology. You can learn more about my professional experience <a href="https://www.linkedin.com/in/teresa-le/">here</a>. When I'm not working on side projects (see below), I enjoy learning French, photographing nature & architecture and trying to find the best tasting ice cream/gelato.
 
 ## Skills
-Programming Languages: SQL, Python (Pandas, Matplotlib, Numpy, Scikit-learn), VBA
-Technologies: Excel, PowerBI, Microsoft SQL Server, Tableau, GitHub, Git, Confluence, JIRA, Visio, HTML/CSS  
-Additional skills: Statistical Analysis, Data Modeling, Business Analysis 
+<ul>
+  <li>Programming Languages: SQL, Python (Pandas, Matplotlib, Numpy, Scikit-learn), VBA</li>
+  <li>Technologies: Excel, PowerBI, Microsoft SQL Server, Tableau, GitHub, Git, Confluence, JIRA, Visio, HTML/CSS</li>
+  <li>Additional skills: Statistical Analysis, Data Modeling, Business Analysis </li>
 
 
 
